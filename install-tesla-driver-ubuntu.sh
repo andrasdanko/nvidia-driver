@@ -1,4 +1,5 @@
 # uname -m
+# . /etc/os-release;echo $ID$VERSION_ID
 # lspci | grep NVIDIA (
 # https://www.nvidia.com/Download/driverResults.aspx/158190/en-us
 
